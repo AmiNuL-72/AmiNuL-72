@@ -13,12 +13,28 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/md.aminulislam.amin.72) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-aminul-islam-amin-79360024a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminul.cse8.bu@gmail.com) 
+
 ## 🧑‍💻 CP-Link
- [<img src="https://img.shields.io/badge/AmiNul_72-151515?style=for-the-badge&logo=linkedin&logoColor=white" height=40>](https://www.linkedin.com/in/md-aminul-islam-amin-79360024a/) 
- [<img src="https://img.shields.io/badge/Codeforces-12100E?style=for-the-badge&logo=codeforces&logoColor=white" height=40>](https://codeforces.com/profile/AmiNuL72) 
- [<img src="https://img.shields.io/badge/LeeCode-12100E?style=for-the-badge&logo=leetcode&logoColor=white" height=40>](https://leetcode.com/u/AmiNuL_72/) 
- [<img src="https://img.shields.io/badge/Codechef-12100E?style=for-the-badge&logo=codechef&logoColor=white" height=40>](https://www.codechef.com/users/aminul_72) 
- [<img src="https://img.shields.io/badge/atcoder-12100E?style=for-the-badge&logo=atcoder&logoColor=white" height=40>](https://atcoder.jp/users/AmiNuL72) 
+<p align="center">
+<a href="https://www.linkedin.com/in/md-aminul-islam-amin-79360024a/">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+  <a href="https://codeforces.com/profile/AmiNuL72">
+  <img src="https://img.shields.io/badge/Codeforces-1A92CF?style=for-the-badge&logo=codeforces&logoColor=white" height=25>
+</a>
+  <a href="https://www.codechef.com/users/aminul_72">
+  <img src="https://img.shields.io/badge/Codechef-5F331D?style=for-the-badge&logo=codechef&logoColor=white" height=25>
+</a>
+  <a href="https://leetcode.com/u/AmiNuL_72/">
+  <img src="https://img.shields.io/badge/LeeCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height=25>
+</a>
+  <a href="https://atcoder.jp/users/AmiNuL72">
+  <img src="https://img.shields.io/badge/AtCoder-30?style=for-the-badge&logo=atcoder&logoColor=white" height=25>
+</a>
+  <a href="https://toph.co/u/AmiNuL72">
+  <img src="https://img.shields.io/badge/Toph-E7CF98?style=for-the-badge&logo=toph&logoColor=white" height=25>
+</a>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
