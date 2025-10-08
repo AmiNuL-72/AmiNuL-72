@@ -43,6 +43,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AmiNuL-72&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiNuL-72&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://komarev.com/ghpvc/?username=AmiNuL-72&label=Profile%20views&color=0e75b6&style=flat" alt="AmiNuL-72" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiNuL-72&theme=tokyo-night" alt="Activity Graph" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmiNuL-72&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
