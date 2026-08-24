@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/md-aminul-islam-amin-79360024a/">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-  <a href="https://codeforces.com/profile/AmiNuL72">
+  <a href="https://codeforces.com/profile/JustCode0rCode__YLN_---">
   <img src="https://img.shields.io/badge/Codeforces-1A92CF?style=for-the-badge&logo=codeforces&logoColor=white" height=25>
 </a>
   <a href="https://www.codechef.com/users/aminul_72">
