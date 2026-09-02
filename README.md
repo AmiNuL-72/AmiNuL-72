@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;React+%26+Node.js+Developer;Currently+Learning+React.js;Competitive+Programmer;CSE+Student+%26+Developer;Crafting+Scalable+Web+Apps;React+%7C+Next.js+%7C+Node.js;Turning+Code+Into+Solutions;Passionate+About+Clean+Code;Clean+Code+%26+Modern+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;Currently+Learning+React.js;Competitive+Programmer;CSE+Student+%26+Developer;Crafting+Scalable+Web+Apps;React+%7C+Next.js+%7C+Node.js;Turning+Code+Into+Solutions;Clean+Code+%26+Modern+UI" alt="Typing SVG" />
 </p>
 
 
