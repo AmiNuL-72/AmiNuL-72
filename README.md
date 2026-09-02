@@ -1,3 +1,9 @@
+<img src="https://github.com/AmiNuL-72/AmiNuL-72/blob/main/banner.png" alt="Md Aminul Islam's Banner" width="100%"/>
+
+![logo](https://github.com/AmiNuL-72/AmiNuL-72/blob/main/banner.png)
+
+
+
 <div align="center">
   <a href="#">
     <img src="https://i.imgur.com/iXuL1HG.png" alt="logo" style="height: 200px; width: auto;">
