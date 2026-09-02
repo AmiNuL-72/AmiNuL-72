@@ -1,69 +1,113 @@
-<img src="https://github.com/AmiNuL-72/AmiNuL-72/blob/main/banner.png" alt="Md Aminul Islam's Banner" width="100%"/>
 
-![logo](https://github.com/AmiNuL-72/AmiNuL-72/blob/main/banner.png)
+<img src="https://github.com/AmiNuL-72/AmiNuL-72/blob/main/banner.png" alt="Aminul's Banner" width="100%"/>
 
+<h1 align="center">Hi 👋, I'm Md Aminul Islam</h1>
 
-
-<div align="center">
-  <a href="#">
-    <img src="https://i.imgur.com/iXuL1HG.png" alt="logo" style="height: 200px; width: auto;">
-  </a>
-  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AmiNuL</h1>
-  <h4>A passionate Competitive Programmer...</h4>
-</div>
-
-
-# 💫 About Me:
-🔭 I’m currently working on "Competitive-Programming".<br>🌱 I’m currently learning "Data Structures and Algorithms".<br>👯 I’m looking to collaborate on "OpenSource Projects".<br>👨‍💻 All of my projects are available at [My Portfolio]()<br>📫 How to reach me aminul.cse8.bu@gmail.com<br>
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/md.aminulislam.amin.72) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-aminul-islam-amin-79360024a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminul.cse8.bu@gmail.com) 
-
-## 🧑‍💻 CP-Link
 <p align="center">
-<a href="https://www.linkedin.com/in/md-aminul-islam-amin-79360024a/">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-  <a href="https://codeforces.com/profile/JustCode0rCode__YLN_---">
-  <img src="https://img.shields.io/badge/Codeforces-1A92CF?style=for-the-badge&logo=codeforces&logoColor=white" height=25>
-</a>
-  <a href="https://www.codechef.com/users/aminul_72">
-  <img src="https://img.shields.io/badge/Codechef-5F331D?style=for-the-badge&logo=codechef&logoColor=white" height=25>
-</a>
-  <a href="https://leetcode.com/u/AmiNuL_72/">
-  <img src="https://img.shields.io/badge/LeeCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height=25>
-</a>
-  <a href="https://atcoder.jp/users/AmiNuL72">
-  <img src="https://img.shields.io/badge/AtCoder-30?style=for-the-badge&logo=atcoder&logoColor=white" height=25>
-</a>
-  <a href="https://toph.co/u/AmiNuL72">
-  <img src="https://img.shields.io/badge/Toph-E7CF98?style=for-the-badge&logo=toph&logoColor=white" height=25>
-</a>
+  <b>CSE Student 🎓 | Competitive Programmer ⚡ | Aspiring Full Stack Developer 🚀</b>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmiNuL-72&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AmiNuL-72&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiNuL-72&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;React+%26+Node.js+Developer;Currently+Learning+React.js;Competitive+Programmer;CSE+Student+%26+Developer;Crafting+Scalable+Web+Apps;React+%7C+Next.js+%7C+Node.js;Turning+Code+Into+Solutions;Passionate+About+Clean+Code;Clean+Code+%26+Modern+UI" alt="Typing SVG" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=AmiNuL-72&label=Profile%20views&color=0e75b6&style=flat" alt="AmiNuL-72" />
+
+## 💫 About Me
+
+"Hi, I'm Md Aminul Islam 👋 — a **CSE student** and **Competitive Programmer** on a journey to becoming a **Full Stack Developer**. I love the process of turning an idea into a working, polished product, and I'm currently focused on strengthening my **frontend fundamentals** with React while sharpening my problem-solving skills through algorithmic challenges.
+
+- 🔭 Currently learning **React.js** and building small projects to apply what I learn
+- 🌱 Sharpening my **Data Structures & Algorithms (DSA)** for Competitive Programming, honing **JavaScript** fundamentals, and exploring **TypeScript**
+- 🎯 Long-term goal: Exceeding in Competitive Programming and becoming a confident **Full Stack Developer**
+- 🤝 Open to collaborating on CP problem sets, beginner-friendly, and frontend projects
+- 💡 I believe in learning by building and solving — not just watching tutorials
+
+📫 **How to reach me:** [aminul.cse8.bu@gmail.com](mailto:aminul.cse8.bu@gmail.com)
+
+<br>
+
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://www.facebook.com/md.aminulislam.amin.72" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-aminul-islam-amin-79360024a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aminul.cse8.bu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
+## ⚔️ Competitive Programming Profiles:
+
+<p align="center">
+  <a href="https://codeforces.com/profile/JustCode0rCode__YLN_---" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/AmiNuL_72/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/aminul_72" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://atcoder.jp/users/AmiNuL72" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=cplusplus&logoColor=white" alt="AtCoder" />
+  </a>
+  <a href="https://toph.co/u/AmiNuL72" target="_blank">
+    <img src="https://img.shields.io/badge/Toph-00C853?style=for-the-badge&logo=codefactor&logoColor=white" alt="Toph" />
+  </a>
+</p>
+
+## 💻 Tech Stack:
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
+  </a>
+</p>
+
+## 📊 Current Stats:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiNuL-72&theme=tokyo-night" alt="Activity Graph" />
+  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmiNuL-72&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; 
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmiNuL-72&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmiNuL-72&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmiNuL-72&theme=radical)
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmiNuL-72&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AmiNuL-72&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmiNuL-72&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
+### 🤝 Open to Opportunities
+
+Currently focused on learning, building, and continuously refining my software engineering skills.
+
+**Open To:**
+
+- 🎓 **Internship Positions** — Software Engineering / Web Development
+- 💼 **Junior Developer Roles** — Frontend & Full Stack Engineering
+- 🌐 **Open-Source Projects** — Contributing & Collaborating with the Community
+- 👥 **Developer Collaborations** — Building Real-World Web Applications
+- 🚀 **Future Full Stack Opportunities** — MERN / Next.js Ecosystems
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AmiNuL-72&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 **Let's Connect:** If you have an exciting project, opening, or collaboration in mind, feel free to reach out at [aminul.cse8.bu@gmail.com](mailto:aminul.cse8.bu@gmail.com).
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmiNuL-72&style=flat-square&color=8A2BE2" alt="profile views"/>
+  <br/><br/>
+  <sub>Thanks for visiting my profile — always open to connect and collaborate 🤍</sub>
+</div>
