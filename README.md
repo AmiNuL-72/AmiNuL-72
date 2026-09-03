@@ -62,11 +62,16 @@
 </p>
 
 ## 💻 Tech Stack:
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
-  </a>
-</p>
+<div align="center">
+
+| Category | Technologies & Tools |
+| :---: | :---: |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css" alt="Languages" /></a> |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" /></a> |
+| **Backend & DB** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and Database" /></a> |
+| **Tools & Platforms** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /></a> |
+
+</div>
 
 ## 📊 Current Stats:
 <div align="center">
